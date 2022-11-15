@@ -1,4 +1,4 @@
-# 1mg Clone named ENVISION
+#ENVISION
 
 Online medicine supply website that allows users to order medicine with a prescription, and also offers a subscription plan for health checkups.
 
